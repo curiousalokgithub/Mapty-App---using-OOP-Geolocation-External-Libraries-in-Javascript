@@ -37,5 +37,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 4. Push to the branch: `git push origin feature/new-feature`
 5. Submit a pull request
 
-## Credits
-This app was developed by me based on concepts from [The Complete JavaScript Course](https://www.udemy.com/course/the-complete-javascript-course/) by Jonas Schmedtmann.
